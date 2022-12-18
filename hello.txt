@@ -2,3 +2,4 @@ Hello Gaurav , How are you
 hakunana tata
 now adding third line again the file is in modified state use git add hello.txt to add in staging area then do git commit -m ""
 lets add new line 
+lets change new line 
